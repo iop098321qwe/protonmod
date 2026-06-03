@@ -1,6 +1,6 @@
 {
   "name": "protonmod",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Modifications for Proton tools in the CLI. Aliases set by default.",
   "main": "index.js",
   "scripts": {
